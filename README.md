@@ -5,7 +5,7 @@ Using PyArt's columnsect function to pull vertical columns of radar data for use
 
 
 
-#Citations:
+# Citations:
 The wonderful folks who have worked to develop Py-ART and all it's fantastic applications get all the credit on this one:
 
 https://arm-doe.github.io/pyart/
